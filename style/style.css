@@ -2,6 +2,11 @@
 * {
     margin:0;
 }
+/*Icon class*/
+.icon {
+    border-radius: 100%;
+    border:1px solid #DDD;
+}
 
 /* Carousel base class */
 .carousel {
